@@ -13,6 +13,8 @@ public class Main {
         System.out.println("average: " + stats.getAverage());
         System.out.println("min: " + stats.getMin());
         System.out.println("max: " + stats.getMax());
+        System.out.println(stats.getStats());
+        System.out.println(stats);
         
     }
     
